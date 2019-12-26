@@ -1,0 +1,23 @@
+{
+  "name": "lesson",
+  "version": "1.0.0",
+  "description": "Oelg test lessons",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegPinchuk/lessons.git"
+  },
+  "author": "Oleg pinchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegPinchuk/lessons/issues"
+  },
+  "homepage": "https://github.com/OlegPinchuk/lessons#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
